@@ -1,1 +1,2 @@
-print()
+print("Edit In Master")
+Master Changes Are Trash Not Neede Now
